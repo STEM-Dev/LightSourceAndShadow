@@ -1,0 +1,9 @@
+modelname   : Model-test
+modelcomment: >
+    This is a test of GitHub features
+baseurl     : /Model-test
+preurl      : https://github.com/VicCastillo
+#
+markdown : redcarpet
+exclude  : ['NIL']
+encoding : UTF-8
