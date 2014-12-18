@@ -4,6 +4,7 @@ modelcomment: >
 baseurl     : /LightSourceAndShadow
 preurl      : https://github.com/VicCastillo
 #
-markdown : redcarpet
-exclude  : ['NIL']
-encoding : UTF-8
+markdown: redcarpet
+exclude:  ['NIL']
+encoding: UTF-8
+

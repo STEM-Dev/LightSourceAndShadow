@@ -23,7 +23,7 @@ As the light rays get the film on the right side, the discreet points become bri
 
 Try running with different number of light sources and the screen at different locations. Can you predict how the film will be exposed?
 
-Try different `ray-motions`… How does the film expose? Does this match your expectations?
+Try different `ray-motions`. How does the film expose? Does this match your expectations?
 
 ## NETLOGO FEATURES
 
