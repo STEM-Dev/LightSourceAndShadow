@@ -1,7 +1,7 @@
-modelname   : Model-test
+modelname   : LightSourceAndShadow
 modelcomment: >
-    This is a test of GitHub features
-baseurl     : /Model-test
+    NetLogo Model of Light source(s), a movable screen, and a light-sensitive film used for an introductory course on modeling. 
+baseurl     : /LightSourceAndShadow
 preurl      : https://github.com/VicCastillo
 #
 markdown : redcarpet
