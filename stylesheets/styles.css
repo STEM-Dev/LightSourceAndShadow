@@ -625,6 +625,7 @@ blockquote {
 code {
   font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #dd6363;
+  background: #e1cdcd;
   font-size: 13px;
   margin: 0 4px;
   padding: 4px 6px;
@@ -654,7 +655,7 @@ pre {
   overflow-y: hidden;
 }
 pre code {
-  color: #ade3df;
+  color: #efefef;
   text-shadow: 0px 1px 0px #000;
   margin: 0;
   padding: 0;
@@ -776,7 +777,7 @@ dt {
 }
 #header nav li.title {
   float: right;
-  margin-right: 10px;
+  margin-right: 24px;
   font-size: 11px;
 }
 
