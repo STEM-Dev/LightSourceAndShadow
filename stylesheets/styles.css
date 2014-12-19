@@ -635,7 +635,7 @@ inbutton{
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
-  border-radius: 1px;
+  border-radius: 2px;
   border: outset 2px #d9d3e0;
 }
 
@@ -652,7 +652,7 @@ code {
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
   border-radius: 2px;
-  border: solid 2x white;
+  border: solid 2px white;
 }
 
 pre {
