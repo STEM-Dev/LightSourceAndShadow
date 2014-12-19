@@ -625,7 +625,7 @@ blockquote {
 code {
   font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #dd6363;
-  background: #e1cdcd;
+  background: #cce1e3;
   font-size: 13px;
   margin: 0 4px;
   padding: 4px 6px;
@@ -777,7 +777,7 @@ dt {
 }
 #header nav li.title {
   float: right;
-  margin-right: 24px;
+  margin-right: 36px;
   font-size: 11px;
 }
 
