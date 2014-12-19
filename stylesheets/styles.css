@@ -635,6 +635,7 @@ code {
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
   border-radius: 2px;
+  border: outset 5px #d9d3e0;
 }
 
 pre {
