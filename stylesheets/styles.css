@@ -634,7 +634,7 @@ code {
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 1px;
   border: outset 2px #d9d3e0;
 }
 
