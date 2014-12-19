@@ -642,7 +642,7 @@ inbutton{
 code {
   font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: white;
-  background: #191919;
+  background: #efefef;
   font-size: 13px;
   margin: 0 2px;
   padding: 2px 2px;
@@ -652,7 +652,7 @@ code {
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
   border-radius: 1px;
-  border: solid 21x #d9d3e0;
+  border: solid 1x #d9d3e0;
 }
 
 pre {
