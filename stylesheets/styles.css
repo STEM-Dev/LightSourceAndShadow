@@ -627,6 +627,7 @@ code {
   color: #000000;
   background: #cce1e3;
   font-size: 13px;
+  font-weight: bold;
   margin: 0 2px;
   padding: 2px 2px;
   -moz-border-radius: 2px;
@@ -777,6 +778,7 @@ dt {
   margin-left: 6px;
 }
 #header nav li.title {
+  font-weight: bold;
   float: right;
   margin-right: 10px;
   font-size: 24px;
