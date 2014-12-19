@@ -722,7 +722,7 @@ dt {
   display: inline;
   color: white;
   line-height: 50px;
-  text-shadow: 0px 1px 0px rgba(215, 0, 0, 0.2);
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
   font-size: 14px;
 }
 #header nav li a {
@@ -772,7 +772,7 @@ dt {
 }
 #header nav li.downloads {
   float: right;
-  margin-left: 6px;
+  margin-left: 16px;
 }
 #header nav li.title {
   float: right;
