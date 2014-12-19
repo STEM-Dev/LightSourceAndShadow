@@ -4,6 +4,8 @@ modelcomment: >
 baseurl     : /LightSourceAndShadow
 preurl      : https://github.com/VicCastillo
 #
+gems:
+  - jekyll-sitemap
 markdown: redcarpet
 exclude:  ['NIL']
 encoding: UTF-8
