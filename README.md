@@ -1,7 +1,7 @@
 ##LightSourceAndShadow Model Repository
 
-The model Home Page (with download links) is here: 
-[LightSourceAndShadow](http://viccastillo.github.io/LightSourceAndShadow/)
+The model page (with download links) is here: 
+[http://viccastillo.github.io/LightSourceAndShadow/](http://viccastillo.github.io/LightSourceAndShadow/)
 
 
 
