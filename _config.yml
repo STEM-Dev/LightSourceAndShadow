@@ -1,7 +1,8 @@
 modelname   : LightSourceAndShadow
 modelcomment: >
-    NetLogo Model of Light source(s), a movable screen, and a light-sensitive film used for an introductory course on modeling. 
+    Template for model pages. 
 baseurl     : /LightSourceAndShadow
+devname     : VicCastillo 
 accountname : STEM-Dev
 preurl      : https://github.com/STEM-Dev
 #
